@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說月燈三昧經
+#+DATE: 2015-08-30 20:14:56.796590
+#+PROPERTY: JUAN 0
